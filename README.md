@@ -1,6 +1,8 @@
 # forecastdedemandainteragente
 Forecaste de demanda de ordem de serviço
 
+Projeto desenvolvido em parceria com a empresa Interagente.
+
 Uma distribuidora de energia elétrica recebe diversos chamados durante o dia. Um dos desafios da operação
 é planejar a capacidade necessária (quantidade de equipes de campo) para as próximas 24 horas. E, para
 isso, é necessário estimar a demanda (quantidade chamados/OSs). O projeto irá construir um mecanismo
