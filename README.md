@@ -1,5 +1,5 @@
 # forecastdedemandainteragente
-Forecaste de demanda de ordem de serviço
+Forecast de demanda de ordem de serviço
 
 Projeto desenvolvido em parceria com a empresa Interagente.
 
